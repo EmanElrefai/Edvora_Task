@@ -1,6 +1,4 @@
 # Edvora_Task
- 
-# Product API Project
 
 In this app: 
 
@@ -48,19 +46,37 @@ MVVM offers some advantages over MVC:
 [6] Error page when there is no internet connection.
 
 
-## Home Ride page
+## Loading page
 <p align="left">
-   <img src="main.png" width="250" height="500">
+   <img src="ScreenShotProject/LoadingView.png" width="250" height="500">
 </p>
 
-## Product Details page
+## Home Ride page without internet connection
 <p align="left">
-  <img src="detail.png" width="250" height="500">
+  <img src="ScreenShotProject/DefaultMain.png" width="250" height="500">
+</p>
+
+## Home Ride page with internet connection
+<p align="left">
+  <img src="ScreenShotProject/main.png" width="250" height="500">
+</p>
+
+## Rides Details page
+<p align="left">
+  <img src="ScreenShotProject/AnotherDetailRide.png" width="250" height="500">
+</p>
+
+## Ride context menu feature
+<p align="left">
+  <img src="ScreenShotProject/DetailRide.png" width="250" height="500">
+</p>
+
+## Filter feature
+<p align="left">
+  <img src="ScreenShotProject/FilterProperty.png" width="250" height="500">
 </p>
 
 ## Error page when there is no internet connection
 <p align="left">
-  <img src="offline.png" width="250" height="500">
+  <img src="ScreenShotProject/no_internet.png" width="250" height="500">
 </p>
-
-
